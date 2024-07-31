@@ -2,9 +2,9 @@
 
 ##### [App Link](https://play.google.com/store/apps/details?id=com.nazar.nazar)
 
-User Flow of Nazar Citizen App!
+User Flow of Nazar Citizen App:
 
-Let's Start By Logging In To The App!
+Citizen Signup/Login Via OTP delivered to Phone Number
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72049d56-1ede-49c1-a66e-5c790188319b" height="340" width="155" style="margin-right: 1px;" />
@@ -13,7 +13,7 @@ Let's Start By Logging In To The App!
   <img src="https://github.com/user-attachments/assets/d5e660f6-df8c-4856-90ea-ad3de536ed5f" height="340" width="155" />
 </p>
 
-Once you have logged in for the very first time, it will ask you to register yourself.
+Account Creation
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b25cdb16-9dbe-4ab8-b0c7-116c09ff72e0" height="340" width="155" style="margin-right: 1px;" />
@@ -23,7 +23,7 @@ Once you have logged in for the very first time, it will ask you to register you
   <img src="https://github.com/user-attachments/assets/fbd02915-cb69-45d3-aefc-59e06cb85775" height="340" width="155" />
 </p>
 
-Once you are registered you will be directed to your Dashboard
+Dashboard post completing account creation process
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/54ce04cf-6b0b-4bc9-836a-2d0d5656c7f5" height="340" width="155" style="margin-right: 1px;" />
