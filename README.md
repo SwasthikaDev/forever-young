@@ -2,7 +2,7 @@
 
 This is a User Flow of Nazar App!
 
-Let's Start By Logging In To The App! - #[LINK](https://play.google.com/store/apps/details?id=com.nazar.nazar)
+Let's Start By Logging In To The App! - [LINK](https://play.google.com/store/apps/details?id=com.nazar.nazar)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72049d56-1ede-49c1-a66e-5c790188319b" width="200" style="margin-right: 10px;" />
