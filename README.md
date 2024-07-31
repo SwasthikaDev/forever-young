@@ -1,4 +1,4 @@
-#
+#We won't be able to share the code as it's a private codebase
 
 This is a User Flow of Nazar Citizen App!
 
