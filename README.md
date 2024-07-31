@@ -1,6 +1,6 @@
 # Hello Citizen,
 
-This is a User Flow of Nazar App!
+This is a User Flow of Nazar Citizen App!
 
 [LINK](https://play.google.com/store/apps/details?id=com.nazar.nazar)
 
@@ -14,3 +14,11 @@ Let's Start By Logging In To The App!
 </p>
 
 Once you have logged in for the very first time, it will ask you to register yourself.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b25cdb16-9dbe-4ab8-b0c7-116c09ff72e0" height="400" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/4d7463e4-205d-41c9-9c49-5c35d811a561" height="400" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/7f002e15-3cc1-4d23-8845-aa7841a32a67" height="400" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/7d00c52e-e30d-4b35-97af-d4a0a0c65d1e" height="400" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/fbd02915-cb69-45d3-aefc-59e06cb85775" height="400" />
+</p>
