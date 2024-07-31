@@ -2,7 +2,7 @@
 
 This is a User Flow of Nazar Citizen App!
 
-[LINK](https://play.google.com/store/apps/details?id=com.nazar.nazar)
+# APP LINK => [LINK](https://play.google.com/store/apps/details?id=com.nazar.nazar)
 
 Let's Start By Logging In To The App!
 
@@ -21,4 +21,11 @@ Once you have logged in for the very first time, it will ask you to register you
   <img src="https://github.com/user-attachments/assets/7f002e15-3cc1-4d23-8845-aa7841a32a67" height="380" width="180" style="margin-right: 2px;" />
   <img src="https://github.com/user-attachments/assets/7d00c52e-e30d-4b35-97af-d4a0a0c65d1e" height="380" width="180" style="margin-right: 2px;" />
   <img src="https://github.com/user-attachments/assets/fbd02915-cb69-45d3-aefc-59e06cb85775" height="380" width="180" />
+</p>
+
+Once you are registered you will be directed to your Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54ce04cf-6b0b-4bc9-836a-2d0d5656c7f5" height="380" width="180" style="margin-right: 2px;" />
+  <img src="https://github.com/user-attachments/assets/e3b11808-da01-4b03-b777-edb9e9d6ba21" height="380" width="180" />
 </p>
