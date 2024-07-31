@@ -7,7 +7,7 @@ This is a User Flow of Nazar Citizen App!
 Let's Start By Logging In To The App!
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72049d56-1ede-49c1-a66e-5c790188319b" height="400" width="150" style="margin-right: 2px;" />
+  <img src="https://github.com/user-attachments/assets/72049d56-1ede-49c1-a66e-5c790188319b" height="380" width="180" style="margin-right: 2px;" />
   <img src="https://github.com/user-attachments/assets/70e2dfac-f89d-41ed-b50f-0d8d9e65c3d5" height="400" style="margin-right: 2px;" />
   <img src="https://github.com/user-attachments/assets/bff3f09f-e6fa-48aa-b298-547ba8274b38" height="400" style="margin-right: 2px;" />
   <img src="https://github.com/user-attachments/assets/d5e660f6-df8c-4856-90ea-ad3de536ed5f" height="400" />
