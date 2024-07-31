@@ -2,7 +2,8 @@
 
 This is a User Flow of Nazar Citizen App!
 
-##### APP LINK => [LINK](https://play.google.com/store/apps/details?id=com.nazar.nazar)
+##### App Link
+ [LINK](https://play.google.com/store/apps/details?id=com.nazar.nazar)
 
 Let's Start By Logging In To The App!
 
